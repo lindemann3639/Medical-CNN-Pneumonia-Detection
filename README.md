@@ -21,8 +21,8 @@ The trained models have been deployed on a web application to demonstrate their 
 - Evaluation metrics: accuracy, precision, recall, confusion matrix  
 
 ## Results
-- **Binary CNN**: Accuracy ≈ XX% (update with results)  
-- **Multi-class CNN**: Accuracy ≈ YY% (update with results)  
+- **Binary CNN**: Accuracy ≈  93.63% (update with results)  
+- **Multi-class CNN**: Accuracy ≈  93.91% (update with results)  
 
 Visualizations such as training curves and confusion matrices are included in the notebooks.  
 
